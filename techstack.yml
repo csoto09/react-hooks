@@ -2,7 +2,7 @@ repo_name: csoto09/react-hooks
 report_id: c0b79b9f50ea2b552038373dfb22cead
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:37:41+00:00'
+timestamp: '2024-02-29T18:49:12+00:00'
 requested_by: csoto09
 provider: github
 branch: main
@@ -54,7 +54,7 @@ tools:
   detection_source_url: https://github.com/csoto09/react-hooks
   detection_source: Repo Metadata
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 2.1.2
   license: MIT
